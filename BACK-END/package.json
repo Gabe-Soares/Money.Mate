@@ -1,0 +1,14 @@
+{
+  "name": "money.mate-back-end",
+  "version": "0.1.0",
+  "description": "RESTful API with Express.js for serving the WEB Client App.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gabriel Soares Araújo",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.18.2"
+  }
+}
